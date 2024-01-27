@@ -1,0 +1,17 @@
+i{
+    font-weight: lighter;
+    font-size: small;
+}
+.heading{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+body{
+    background-image: linear-gradient(to right, red , yellow);
+}
+.card-img-top{
+ box-shadow: 20px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
